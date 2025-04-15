@@ -10,3 +10,10 @@
    <li>Database Integration: Stored user-submitted data in a MySQL database, allowing users to retrieve and edit resumes later.</li>
   
 </ul>
+<br>
+<b> Real-Time Uses of a Resume Generator :</b>
+<ol>
+  <li>Job Portals & Career Websites</li>
+  <li>College & University Career Centers</li>
+  <li>Recruitment Agencies</li>
+</ol>
