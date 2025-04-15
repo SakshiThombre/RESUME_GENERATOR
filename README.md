@@ -8,5 +8,5 @@
    <li>Form Inputs: Enabled users to enter personal details, education, experience, and skills via structured form sections.</li>
    <li>Backend Logic: Utilized PHP to process form data, validate inputs, and generate resume content dynamically.</li>
    <li>Database Integration: Stored user-submitted data in a MySQL database, allowing users to retrieve and edit resumes later.</li>
-   <li></li>
+  
 </ul>
